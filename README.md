@@ -1,6 +1,6 @@
 # 온라인 화상 심리 카드 게임 Betting Royal
  
-<img src="https://user-images.githubusercontent.com/56749776/185520779-aa84ce29-ace1-40d8-8267-746c7ead418a.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/56749776/185520779-aa84ce29-ace1-40d8-8267-746c7ead418a.png" width="600" height="300">
 
 #  Overview
 상대의 모습이 보이지 않아 정확하게 심리를 파악하기 어려운 기존의 온라인 카드게임은 이제 그만!
@@ -10,22 +10,22 @@
 # Betting Royal 서비스 화면
 
 ### 로그인
-<img src="./docs/login.webp" width="600"> 
+<img src="./docs/login.webp" width="750"> 
 
 ### 게임
-<img src="./docs/game.webp" width="600"> 
+<img src="./docs/game.webp" width="750"> 
 
 ### 게임에서 이겼을 때
-<img src="./docs/win.webp" width="600"> 
+<img src="./docs/win.webp" width="750"> 
 
 ### 게시판
-<img src="./docs/board.webp" width="600"> 
+<img src="./docs/board.webp" width="750"> 
 
 ### 금고
-<img src="./docs/vault.webp" width="600"> 
+<img src="./docs/vault.webp" width="750"> 
 
 ### 친구
-<img src="./docs/friend.webp" width="600"> 
+<img src="./docs/friend.webp" width="750"> 
 
 
 #  주요 기능
@@ -83,12 +83,12 @@
 
 ### 서비스 아키텍처
 
-<img src="https://user-images.githubusercontent.com/56749776/185519575-74973bc4-0ed0-4361-b499-7f8278b474b9.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/56749776/197690679-81710fa6-cb71-435b-ace4-300ecd8f6dc4.png" width="800" height="450">
 
 
 ### 요구 사항 정의서
-<img src="https://user-images.githubusercontent.com/56749776/185520424-0ac7f9c4-65e4-49c7-ac72-ef32cee04860.png" width="600" height="500">
-<img src="https://user-images.githubusercontent.com/56749776/185520471-e986a165-c45e-47ca-b1ad-6087d0eafb33.png" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/56749776/197691310-180e17fa-e0d9-4f74-9173-a910c4d85c49.png" width="800" height="600">
+<img src="https://user-images.githubusercontent.com/56749776/197691560-30bed7ff-2083-4a9a-b583-b1d3c76e8823.png" width="800" height="600">
 
 ### 마일스톤
 <img src="https://user-images.githubusercontent.com/56749776/185520326-3b83b272-9c20-4f2e-824a-997040bc662d.png" width="600" height="650">
@@ -143,4 +143,4 @@ ex) 회원가입 기능
 
 
 ### 팀원 역할
-<img src="https://user-images.githubusercontent.com/56749776/185519803-50f08ece-e0d3-47f2-93ba-bd822524a42e.png" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/56749776/197690358-21ce9c64-572b-47a2-b16f-766c58b89938.png" width="800" height="450">
