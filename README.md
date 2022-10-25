@@ -121,12 +121,12 @@ ex) 회원가입 기능
 ```
 
 ### Jira
-<img src="https://user-images.githubusercontent.com/56749776/185520546-5946981f-e6ee-4df7-b546-3e29fb14869e.png" width="500" height="400">
-<img src="https://user-images.githubusercontent.com/56749776/185520581-68f7ae70-4923-41b2-97c0-d0fcf143c609.png" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/56749776/185520546-5946981f-e6ee-4df7-b546-3e29fb14869e.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/56749776/185520581-68f7ae70-4923-41b2-97c0-d0fcf143c609.png" width="500" height="350">
 
 
 ### ERD
-<img src="https://user-images.githubusercontent.com/56749776/185520712-9886453e-f13a-47d7-b891-5df452c2770b.png" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/56749776/185520712-9886453e-f13a-47d7-b891-5df452c2770b.png" width="600" height="450">
 
 
 ### EC2 포트 정리
@@ -143,4 +143,4 @@ ex) 회원가입 기능
 
 
 ### 팀원 역할
-<img src="https://user-images.githubusercontent.com/56749776/185519803-50f08ece-e0d3-47f2-93ba-bd822524a42e.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/56749776/185519803-50f08ece-e0d3-47f2-93ba-bd822524a42e.png" width="600" height="350">
